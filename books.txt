@@ -1,0 +1,20 @@
+1|qwe|asd|4|4
+3|Machine Learning Basics|Alice Johnson|2|1
+4|Artificial Intelligence|Andrew Ng|4|1
+5|Database Management Systems|Raghu Ramakrishnan|6|6
+6|Computer Networks|Andrew Tanenbaum|5|5
+7|Operating Systems|Abraham Silberschatz|4|3
+8|Algorithms Unlocked|Thomas Cormen|3|2
+9|Software Engineering|Ian Sommerville|5|5
+10|Deep Learning|Ian Goodfellow|4|2
+11|Cybersecurity Essentials|Chuck Easttom|3|3
+12|Cloud Computing Basics|Rajkumar Buyya|5|5
+13|Data Science from Scratch|Joel Grus|4|3
+14|Web Development with Django|William S. Vincent|3|2
+15|Big Data Analytics|Viktor Mayer-Schönberger|2|1
+16|Internet of Things (IoT) Explained|Michael Miller|4|4
+17|Blockchain Revolution|Don Tapscott|3|3
+18|Linux System Programming|Robert Love|2|1
+19|Programming in C|Dennis Ritchie|6|6
+20|The Art of Computer Programming|Donald Knuth|3|2
+21|gfdr|gf|5|5
